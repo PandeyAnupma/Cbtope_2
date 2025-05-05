@@ -1,5 +1,3 @@
-# Cbtope_2
-This tool is designed to predict Human Antibody Binding Residues.
 # CBTOPE2: Prediction of interactivity of antigens in protein sequence
 
 This repository contains the standalone code for CBTOPE2 prediction tool. CBTOPE2 is an antibody interacting residues predictor. To support the scientific community, we have developed a standalone software and web server for the tool. For a user-friendly access to CBTOPE2, please use https://webs.iiitd.edu.in/raghava/cbtope2/.
